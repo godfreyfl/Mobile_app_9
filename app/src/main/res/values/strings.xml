@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practice_9</string>
+    <string name="file_name">File name</string>
+    <string name="write_file_content">Enter contents</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="delete">Delete</string>
+    <string name="add_info_to_file">Add info to file</string>
+    <string name="file_content">Fule contents</string>
+</resources>
